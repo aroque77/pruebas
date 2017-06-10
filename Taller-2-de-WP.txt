@@ -1,0 +1,9 @@
+hacer una barrar lateral y guardarla en fintions.php
+
+editar footer
+borar el contenodo de div si
+
+hacer clone 
+
+https://github.com/monchitonet/Chocolita
+https://github.com/wpnicaragua/presentaciones
